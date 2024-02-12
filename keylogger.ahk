@@ -1,5 +1,7 @@
 ; modified from: 
 ; http://www.autohotkey.com/board/topic/30294-simple-key-stroke-recorder/
+
+extracted code frm: https://www.autohotkey.com/board/topic/83920-keylogger-script/;
 ;
 
 #NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
